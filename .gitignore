@@ -1,0 +1,11 @@
+node js/
+node_modules/
+files/
+.env
+.env.local
+.DS_Store
+build/
+dist/
+*.log
+.next/
+EOF
