@@ -721,9 +721,9 @@ export default function CLYNIFYWebsite() {
           <div className="grid md:grid-cols-2 gap-12">
             <Reveal type="left" className="space-y-7">
               {[
-                { icon: Phone, label: 'Phone', value: '+91 XXX XXX XXXX' },
-                { icon: Mail, label: 'Email', value: 'info@clynify.com' },
-                { icon: MapPin, label: 'Location', value: 'India' },
+                { icon: Phone, label: 'Phone', value: '+91 6267 350 749' },
+                { icon: Mail, label: 'Email', value: 'clynifystore@gmail.com' },
+                { icon: MapPin, label: 'Location', value: 'Indore - Madhya Pradesh, India' },
               ].map((c, i) => {
                 const Icon = c.icon;
                 return (
