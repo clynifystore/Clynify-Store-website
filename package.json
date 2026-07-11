@@ -5,7 +5,7 @@
   "author": "CLYNIFY Team",
   "license": "MIT",
   "private": true,
-  "homepage": "https://clynifystore.github.io/Clynify-Store-website",
+  "homepage": "https://clynifystore.github.io",
   "dependencies": {
     "lucide-react": "^0.263.1",
     "react": "^18.2.0",
